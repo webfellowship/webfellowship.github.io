@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="hero">
+      <div class="video_wrapper">
+	            <video id="wfloop" loop="" mute="" autoplay="" style="width: 100%; display: block; opacity: 1;" webkit-playsinline="">
+	            <source src="http://webfellowship.org/wp-content/themes/webfellowship/inc/wfloop.mp4" type="video/mp4">
+	            <source src="http://webfellowship.org/wp-content/themes/webfellowship/inc/wfloop.webm" type="video/ogv"></video>
+	    </div>
+    </div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

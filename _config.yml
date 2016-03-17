@@ -9,7 +9,7 @@
 title: Web Fellowship
 email: taylor@webfellowship.org
 description: > # this means to ignore newlines until "baseurl:"
-  Equipping future web designers with a free, 6-week learning experience with expert training, one-on-one mentors, team projects, agency field trips, and real world projects.
+  Equipping future web designers with a free, summer learning experience with expert training, one-on-one mentors, team projects, agency field trips, and real world projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://webfellowship.org" # the base hostname & protocol for your site
 twitter_username: webfellowship

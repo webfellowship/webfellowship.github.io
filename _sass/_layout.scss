@@ -33,9 +33,19 @@
     overflow: hidden;
 }
 
+.mission-content {
+    background-color: #EFEDED;
+}
+
 .site-nav {
     float: right;
     line-height: 60px;
+
+    span {
+      color: #828282;
+      text-transform: uppercase;
+      font-size: 14px;
+    }
 
     .menu-icon {
         display: none;
@@ -118,6 +128,41 @@
     color: #828282;
     margin-bottom: .3em;
 }
+
+/** Email */
+
+.email-banner {
+    background-color: #EFEDED;
+    text-align: center;
+    padding: 1em 0;
+}
+.mc-field-group label {
+    display: none;
+}
+#mc-embedded-subscribe-form {
+    text-align: center;
+    display: inline-block;
+    margin-top: .5em;
+}
+#mc_embed_signup_scroll {
+    display: flex;
+}
+#mce-EMAIL {
+    font-size: 16px;
+    padding: .5em;
+    min-width: 240px;
+}
+input[type="submit"] {
+    font-size: 14px;
+    cursor: pointer;
+    border: 1px solid #B1B1B1;
+    padding: 0.7em 1em;
+    background-color: #F3F3F3;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), inset 0 15px 17px rgba(255, 255, 255, 0.5), inset 0 -5px 12px rgba(0, 0, 0, 0.05);
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
 
 .footer-heading {
     font-size: 18px;

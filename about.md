@@ -1,15 +1,12 @@
 ---
-layout: page
+layout: hero
 title: About
 permalink: /about/
+heroimg: http://webfellowship.org/wp-content/themes/webfellowship/img/work.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Solving local problems with the web.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Each summer, selected Web Fellows will spend their time learning and using design, development, and impact principles as part of our curriculum designed by actual employers and agencies here in Austin, removing the element of surprise when starting off in the field.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+With the main focus on gaining experience through real client work, one-on-one mentoring sessions, impact projects, and field trips to agencies and different working environments, you'll get more out of this program than just basic design and coding skills.

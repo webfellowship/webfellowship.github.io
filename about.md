@@ -2,7 +2,7 @@
 layout: hero
 title: About
 permalink: /about/
-heroimg: http://webfellowship.org/wp-content/themes/webfellowship/img/work.jpg
+heroimg: /assets/work.jpg
 ---
 
 # Solving local problems with the web.
